@@ -1,0 +1,7 @@
+## Link para consulta de sintax do Markdown
+
+https://www.markdownguide.org/basic-syntax/
+
+## Link para consulta comandos GIT
+
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
